@@ -1,0 +1,15 @@
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Datos\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Datos\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Datos\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Datos\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Datos\obj\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\documents\visual studio 2010\Projects\Nutricion\Falp.Capa_Datos\obj\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Datos\bin\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Datos\bin\Debug\Falp.Capa_Datos.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Datos\bin\Debug\Falp.Entidades.dll
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Datos\bin\Debug\Oracle.DataAccess.dll
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Datos\bin\Debug\Falp.Entidades.pdb
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Datos\obj\Debug\Falp.Capa_Datos.csprojResolveAssemblyReference.cache
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Datos\obj\Debug\Falp.Capa_Datos.dll
+C:\Users\emanuel.islas\Desktop\Falp\Desarrollo\Aplicaciones\SISTEMA DESARROLLO\c#\Nutricion\Version Web\Nutricion\Falp.Capa_Datos\obj\Debug\Falp.Capa_Datos.pdb

@@ -1,0 +1,916 @@
+﻿html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+
+body 
+{
+   
+    font-size:12px;
+    background:#F2F4F4;
+    overflow-x: hidden;
+
+}
+
+.contenedor1
+{
+    top:50%;
+   left:50%;
+  width: 100%;
+
+}
+/*   encabezado pagina */
+.contenedor1 .header {
+     margin-top:1px;
+    background:black;
+      top:50%;
+   left:50%;
+    width: 100%;
+    height:70px;
+    color:#00BFFF;
+   
+}
+
+.contenedor1 .header .Logo {
+
+    display:inline-block;
+      width:20%;
+       margin-bottom:5px;
+
+      
+}
+
+.contenedor1 .header .Titulo {
+    
+    display:inline-block;
+     width:55%;
+
+     text-align:center;
+      color:#00BFFF;
+       font-size:28px;
+}
+
+
+
+.contenedor1 .header .sesion {
+  display:inline-block;
+  width:19%;
+  color:#00BFFF;
+  margin-bottom:5px;
+  font-size:13px;
+    
+}
+
+.contenedor2 
+{
+   margin-top:3px;
+   top:50%;
+   left:50%;
+   width:100%;   
+   display:inline-block;
+ 
+
+}
+
+.contenedor2 .contenido
+{
+  margin:5px auto;
+    top:50%;
+  left:50%;
+  width: 100%;
+  height:100%;
+  padding: 30px 30px 30px 30px; 
+}
+
+.contenedor2 .contenido .for_login
+{
+  margin:5px auto;
+  top:50%;
+  left:50%;
+  width: 35%;
+  height:435px;
+    background:#D6EAF8;
+
+}
+
+.contenedor2 .contenido .for_login .Titulo
+{
+    font-size:28px;
+    text-align:center;
+    padding-top:30px;
+}
+
+.contenedor2 .contenido .for_login .img
+{
+  
+       top:50%;
+       left:50%;
+       margin:5px auto;
+
+}
+
+.contenedor2 .contenido .for_login .bloque
+{ 
+ padding:5px 15px 5px 15px;
+  display:inline-block;
+     width:90%;
+  
+}
+
+.contenedor2 .contenido .for_login .bloque label
+{ 
+ 
+  padding:5px 5px 5px 5px;
+  display:inline-block;
+   width:30%;
+   font-size:15px;
+
+
+     
+}
+
+.contenedor2 .contenido .for_login .bloque .tex
+{ 
+ 
+  padding:3px 3px 3px 3px;
+  display:inline-block;
+   width:45%;
+     
+}
+
+
+
+.contenedor2 .contenido .for_login .pos
+{
+     padding:10px 10px 10px 10px;
+     float: right;
+     
+}
+
+/****** contenedor formulario  */
+
+.contenedor2 .contenido .formulario
+{
+  display:inline-block;
+  float: left;
+  margin:1px 20px 15px 20px;
+  width: 45%;
+  min-height:300px;
+ background:#D6EAF8;
+
+}
+
+.contenedor2 .contenido .formulario .dialog1
+{
+   display:inline-block;
+    width: 50%;
+   height :460px;
+}
+.contenedor2 .contenido .formulario .Titulo
+{
+    font-size:25px;
+    text-align:center;
+    padding-top:10px;
+}
+
+.contenedor2 .contenido .formulario .img
+{
+  
+       top:50%;
+       left:50%;
+       margin:25px auto;
+
+}
+
+.contenedor2 .contenido .formulario .bloque
+{ 
+ padding:5px 15px 5px 15px;
+  display:inline-block;
+     width:90%;
+     
+  
+}
+
+.contenedor2 .contenido .formulario .bloque2
+{ 
+ padding:5px 15px 5px 8px;
+  display:inline-block;
+     width:95%;
+     height:70px;
+     
+  
+}
+
+.contenedor2 .contenido .formulario .bloque label
+{ 
+ 
+  padding:5px 5px 5px 5px;
+  display:inline-block;
+   width:35%;
+   font-size:14px;
+
+
+     
+}
+
+.contenedor2 .contenido .formulario .bloque2 label
+{ 
+ 
+  padding:5px 5px 5px 5px;
+  display:inline-block;
+   width:35%;
+   font-size:14px;
+   float:left;
+
+
+     
+}
+
+.contenedor2 .contenido .formulario .bloque .tex
+{ 
+ 
+  padding:1px 15px 3px 1px;
+  display:inline-block;
+   width:55%;
+     
+}
+.contenedor2 .contenido .formulario .bloque .tex3
+{ 
+ 
+  padding:1px 15px 3px 1px;
+  display:inline-block;
+   width:40%;
+     
+}
+
+.contenedor2 .contenido .formulario .bloque2 .tex2
+{ 
+ 
+  padding:10px 15px 3px 7px;
+  display:inline-block;
+   width:55%;
+   float:left;
+   height:60px;
+     
+}
+
+.contenedor2 .contenido .formulario .pos
+{
+     padding:5px 5px 5px 5px;
+     float: right;
+     
+}
+
+.contenedor2 .contenido .formulario .grilla
+{ 
+    
+ padding:2px 15px 15px 15px;
+  overflow:scroll;
+  display:inline-block;
+  width:85%;
+  height:150px;
+    
+  
+    
+}
+
+
+
+.contenedor2 .contenido .formulario .mydatagrid
+{
+	width: 99%;
+	border: solid 1px #81DAF5;
+	min-width: 80%;
+}
+.contenedor2 .contenido .formulario .header
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 22px;
+	text-align: center;
+	font-size: 11px;
+	border: solid 1px #81DAF5;
+}
+
+.contenedor2 .contenido .formulario .rows
+{
+	background-color: #fff;
+	font-family: Arial;
+	font-size: 12px;
+	color: #000;
+	min-height: 20px;
+	text-align: left;
+	border: solid 1px #81DAF5;
+}
+.contenedor2 .contenido .formulario  .rows:hover
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	text-align: left;
+}
+.contenedor2 .contenido .formulario .selectedrow
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	font-weight: bold;
+	text-align: left;
+}
+.contenedor2 .contenido .formulario .mydatagrid a /** FOR THE PAGING ICONS  **/
+{
+	background-color: Transparent;
+	padding: 5px 5px 5px 5px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.contenedor2 .contenido .formulario .mydatagrid a:hover /** FOR THE PAGING ICONS  HOVER STYLES**/
+{
+	background-color: #000;
+	color: #fff;
+}
+.contenedor2 .contenido .listado_cama .mydatagrid span /** FOR THE PAGING ICONS CURRENT PAGE INDICATOR **/
+{
+	background-color: #c9c9c9;
+	color: #000;
+	padding: 5px 5px 5px 5px;
+}
+.contenedor2 .contenido .formulario .pager
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 27px;
+	text-align: left;
+}
+
+.contenedor2 .contenido .formulario .mydatagrid td
+{
+	padding: 5px;
+}
+.contenedor2 .contenido .formulario .mydatagrid th
+{
+	padding: 5px;
+}
+
+
+
+
+
+
+
+
+/*********/
+
+/*  listado cama */
+
+.contenedor2 .contenido .listado_cama .grilla
+{ 
+ padding:10px 15px 15px 15px;
+  display:inline-block;
+  width:95%;
+    
+  
+    
+}
+
+.contenedor2 .contenido .listado_cama
+{
+  margin:20px auto;
+  top:50%;
+  left:50%;
+  width: 60%;
+  min-height:440px;
+    background:#D6EAF8;
+ 
+
+}
+
+.contenedor2 .contenido .listado_cama .Titulo
+{
+    font-size:28px;
+    text-align:center;
+    padding-top:30px;
+}
+
+
+.contenedor2 .contenido .listado_cama .mydatagrid
+{
+	width: 99%;
+	border: solid 1px #81DAF5;
+	min-width: 80%;
+}
+.contenedor2 .contenido .listado_cama .header
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 25px;
+	text-align: center;
+	font-size: 12px;
+	border: solid 1px #81DAF5;
+}
+
+.contenedor2 .contenido .listado_cama .rows
+{
+	background-color: #fff;
+	font-family: Arial;
+	font-size: 12px;
+	color: #000;
+	min-height: 25px;
+	text-align: left;
+	border: solid 1px #81DAF5;
+}
+.contenedor2 .contenido .listado_cama .rows:hover
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	text-align: left;
+}
+.contenedor2 .contenido .listado_cama .selectedrow
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	font-weight: bold;
+	text-align: left;
+}
+.contenedor2 .contenido .listado_cama .mydatagrid a /** FOR THE PAGING ICONS  **/
+{
+	background-color: Transparent;
+	padding: 5px 5px 5px 5px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.contenedor2 .contenido .listado_cama .mydatagrid a:hover /** FOR THE PAGING ICONS  HOVER STYLES**/
+{
+	background-color: #000;
+	color: #fff;
+}
+.contenedor2 .contenido .listado_cama .mydatagrid span /** FOR THE PAGING ICONS CURRENT PAGE INDICATOR **/
+{
+	background-color: #c9c9c9;
+	color: #000;
+	padding: 5px 5px 5px 5px;
+}
+.contenedor2 .contenido .listado_cama .pager
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 30px;
+	text-align: left;
+}
+
+.contenedor2 .contenido .listado_cama .mydatagrid td
+{
+	padding: 5px;
+}
+.contenedor2 .contenido .listado_cama .mydatagrid th
+{
+	padding: 5px;
+}
+
+ 
+
+
+   /*Mobile portrait (320x480)*/
+@media only screen     and  (max-width:480px) 
+{
+    
+
+.contenedor1
+{
+    
+  width: 100%;
+}
+/*   encabezado pagina */
+.contenedor1 .header {
+   
+    background:black;
+    float: left;
+    width: 100%;
+    height:140px;
+    color:#00BFFF;
+   
+}
+
+.contenedor1 .header .Logo {
+
+    display:inline-block;
+      width:20%;
+       margin-bottom:5px;
+
+      
+}
+
+.contenedor1 .header .Titulo {
+    
+       display:inline-block;
+     width:55%;
+     text-align:center;
+     color:#00BFFF;
+     font-size:30px;
+      margin: 10px 10px  10px  10px;
+}
+
+
+
+.contenedor1 .header .sesion {
+  margin-top : 0px;
+  display:inline-block;
+  width:150px;
+  color:#00BFFF;
+  margin-bottom:5px;
+  font-size:13px;
+    
+}
+
+.contenedor2 
+{
+   margin-top:20px;
+   top:50%;
+   left:50%;
+   width:100%;   
+   display:inline-block;
+ 
+
+}
+
+.contenedor2 .contenido
+{
+  
+  width: 100%;
+  height:100%;
+
+}
+
+
+
+.contenedor2 .contenido .for_login
+{
+  margin-left:5px;
+  width: 90%;
+  min-height:465px;
+      background:#D6EAF8;
+
+
+}
+
+.contenedor2 .contenido .for_login .bloque label
+{ 
+ 
+  padding:5px 5px 5px 5px;
+  display:inline-block;
+   width:35%;
+   font-size:15px;
+
+
+     
+}
+
+.contenedor2 .contenido .for_login .bloque .tex
+{ 
+ 
+  padding:3px 3px 3px 3px;
+  display:inline-block;
+   width:50%;
+     
+}
+
+.contenedor2 .contenido .formulario
+{
+  display:inline-block;
+  float: left;
+  margin:1px 10px 15px 10px;
+  width: 85%;
+  min-height:300px;
+    background:#D6EAF8;
+
+}
+
+.contenedor2 .contenido .listado_cama
+{
+  margin:10px auto;
+  top:50%;
+  left:50%;
+  width: 85%;
+  min-height:440px;
+    background:#D6EAF8;
+ 
+}
+
+.contenedor2 .contenido .listado_cama .mydatagrid
+{
+	width: 99%;
+	border: solid 1px #81DAF5;
+	min-width: 80%;
+}
+.contenedor2 .contenido .listado_cama .header
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 25px;
+	text-align: center;
+	font-size: 12px;
+	border: solid 1px #81DAF5;
+}
+
+.contenedor2 .contenido .listado_cama .rows
+{
+	background-color: #fff;
+	font-family: Arial;
+	font-size: 12px;
+	color: #000;
+	min-height: 25px;
+	text-align: left;
+	border: solid 1px #81DAF5;
+}
+.contenedor2 .contenido .listado_cama .rows:hover
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	text-align: left;
+}
+.contenedor2 .contenido .listado_cama .selectedrow
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	font-weight: bold;
+	text-align: left;
+}
+.contenedor2 .contenido .listado_cama .mydatagrid a /** FOR THE PAGING ICONS  **/
+{
+	background-color: Transparent;
+	padding: 5px 5px 5px 5px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.contenedor2 .contenido .listado_cama .mydatagrid a:hover /** FOR THE PAGING ICONS  HOVER STYLES**/
+{
+	background-color: #000;
+	color: #fff;
+}
+.contenedor2 .contenido .listado_cama .mydatagrid span /** FOR THE PAGING ICONS CURRENT PAGE INDICATOR **/
+{
+	background-color: #c9c9c9;
+	color: #000;
+	padding: 5px 5px 5px 5px;
+}
+.contenedor2 .contenido .listado_cama .pager
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 30px;
+	text-align: left;
+}
+
+.contenedor2 .contenido .listado_cama .mydatagrid td
+{
+	padding: 5px;
+}
+.contenedor2 .contenido .listado_cama .mydatagrid th
+{
+	padding: 5px;
+}
+
+    
+}
+
+
+
+/*Mobile portrait (320x480)*/
+@media only screen     and  (max-width:480px) 
+{
+    
+
+.contenedor1
+{
+    
+  width: 100%;
+}
+/*   encabezado pagina */
+.contenedor1 .header {
+   
+    background:black;
+    float: left;
+    width: 100%;
+    height:140px;
+    color:#00BFFF;
+   
+}
+
+.contenedor1 .header .Logo {
+
+    display:inline-block;
+      width:20%;
+       margin-bottom:5px;
+
+      
+}
+
+.contenedor1 .header .Titulo {
+    
+       display:inline-block;
+     width:55%;
+     text-align:center;
+     color:#00BFFF;
+     font-size:30px;
+      margin: 10px 10px  10px  10px;
+}
+
+
+
+.contenedor1 .header .sesion {
+  margin-top : 0px;
+  display:inline-block;
+  width:150px;
+  color:#00BFFF;
+  margin-bottom:5px;
+  font-size:13px;
+    
+}
+
+.contenedor2 
+{
+   margin-top:20px;
+   top:50%;
+   left:50%;
+   width:100%;   
+   display:inline-block;
+ 
+
+}
+
+.contenedor2 .contenido
+{
+  
+  width: 100%;
+  height:100%;
+
+}
+
+
+
+.contenedor2 .contenido .for_login
+{
+  margin-left:5px;
+  width: 90%;
+  min-height:465px;
+      background:#D6EAF8;
+
+
+}
+
+.contenedor2 .contenido .for_login .bloque label
+{ 
+ 
+  padding:5px 5px 5px 5px;
+  display:inline-block;
+   width:35%;
+   font-size:15px;
+
+
+     
+}
+
+.contenedor2 .contenido .for_login .bloque .tex
+{ 
+ 
+  padding:3px 3px 3px 3px;
+  display:inline-block;
+   width:50%;
+     
+}
+
+.contenedor2 .contenido .formulario
+{
+  display:inline-block;
+  float: left;
+  margin:1px 10px 15px 10px;
+  width: 85%;
+  min-height:300px;
+    background:#D6EAF8;
+
+}
+
+.contenedor2 .contenido .listado_cama
+{
+  margin:10px auto;
+  top:50%;
+  left:50%;
+  width: 85%;
+  min-height:440px;
+    background:#D6EAF8;
+ 
+}
+
+.contenedor2 .contenido .listado_cama .mydatagrid
+{
+	width: 99%;
+	border: solid 1px #81DAF5;
+	min-width: 80%;
+}
+.contenedor2 .contenido .listado_cama .header
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 25px;
+	text-align: center;
+	font-size: 12px;
+	border: solid 1px #81DAF5;
+}
+
+.contenedor2 .contenido .listado_cama .rows
+{
+	background-color: #fff;
+	font-family: Arial;
+	font-size: 12px;
+	color: #000;
+	min-height: 25px;
+	text-align: left;
+	border: solid 1px #81DAF5;
+}
+.contenedor2 .contenido .listado_cama .rows:hover
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	text-align: left;
+}
+.contenedor2 .contenido .listado_cama .selectedrow
+{
+	background-color: #ff8000;
+	font-family: Arial;
+	color: #fff;
+	font-weight: bold;
+	text-align: left;
+}
+.contenedor2 .contenido .listado_cama .mydatagrid a /** FOR THE PAGING ICONS  **/
+{
+	background-color: Transparent;
+	padding: 5px 5px 5px 5px;
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.contenedor2 .contenido .listado_cama .mydatagrid a:hover /** FOR THE PAGING ICONS  HOVER STYLES**/
+{
+	background-color: #000;
+	color: #fff;
+}
+.contenedor2 .contenido .listado_cama .mydatagrid span /** FOR THE PAGING ICONS CURRENT PAGE INDICATOR **/
+{
+	background-color: #c9c9c9;
+	color: #000;
+	padding: 5px 5px 5px 5px;
+}
+.contenedor2 .contenido .listado_cama .pager
+{
+	background-color: #81DAF5;
+	font-family: Arial;
+	color: White;
+	height: 30px;
+	text-align: left;
+}
+
+.contenedor2 .contenido .listado_cama .mydatagrid td
+{
+	padding: 5px;
+}
+.contenedor2 .contenido .listado_cama .mydatagrid th
+{
+	padding: 5px;
+}
+
+    
+}
+
